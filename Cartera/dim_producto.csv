@@ -1,0 +1,19 @@
+﻿producto_id,producto,familia,subfamilia,mercado,comision_mensual_usd,tasa_referencia_anual,riesgo_producto,activo
+PR01,Cuenta corriente,Depósitos,Transaccional,Persona,35,0.001,Bajo,1
+PR02,Cuenta nómina,Depósitos,Transaccional,Persona,0,0.0015,Bajo,1
+PR03,Cuenta ahorro,Depósitos,Ahorro,Persona,15,0.008,Bajo,1
+PR04,Depósito a plazo,Inversiones,Plazo,Persona,0,0.035,Bajo,1
+PR05,Tarjeta clásica,Tarjetas,Crédito,Persona,12,0.365,Medio,1
+PR06,Tarjeta oro,Tarjetas,Crédito,Persona,25,0.325,Medio,1
+PR07,Tarjeta premium,Tarjetas,Crédito,Persona,45,0.285,Medio,1
+PR08,Crédito personal,Créditos,Consumo,Persona,0,0.245,Alto,1
+PR09,Crédito automotriz,Créditos,Consumo,Persona,0,0.155,Medio,1
+PR10,Hipoteca residencial,Créditos,Hipotecario,Persona,0,0.105,Medio,1
+PR11,Cuenta pyme,Depósitos,Transaccional,Empresa,55,0.001,Bajo,1
+PR12,Crédito pyme,Créditos,Comercial,Empresa,0,0.185,Alto,1
+PR13,Línea de crédito empresarial,Créditos,Comercial,Empresa,0,0.145,Alto,1
+PR14,Cuenta corporativa,Depósitos,Transaccional,Empresa,120,0.001,Bajo,1
+PR15,Inversión administrada,Inversiones,Fondos,Mixto,80,0.045,Medio,1
+PR16,Seguro de vida,Seguros,Protección,Persona,18,0,Bajo,1
+PR17,Seguro empresarial,Seguros,Protección,Empresa,95,0,Medio,1
+PR18,Cuenta digital,Depósitos,Transaccional,Persona,0,0.004,Bajo,1

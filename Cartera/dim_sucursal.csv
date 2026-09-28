@@ -1,0 +1,51 @@
+﻿sucursal_id,sucursal,pais_id,pais,region,ciudad,moneda_local,zona,formato,fecha_apertura,gerente_id,cluster_riesgo,activo
+SU0001,Ciudad de México Centro,PA01,México,Norteamérica,Ciudad de México,MXN,Metropolitana,Hub,2000-08-01,GE0102,Bajo,1
+SU0002,Monterrey Norte,PA01,México,Norteamérica,Monterrey,MXN,Metropolitana,Tradicional,1990-07-01,GE0103,Bajo,1
+SU0003,Guadalajara Plaza,PA01,México,Norteamérica,Guadalajara,MXN,Metropolitana,Tradicional,2006-12-01,GE0104,Bajo,1
+SU0004,Puebla Centro,PA01,México,Norteamérica,Puebla,MXN,Urbana,Tradicional,1991-12-01,GE0105,Bajo,1
+SU0005,Querétaro Norte,PA01,México,Norteamérica,Querétaro,MXN,Urbana,Digital,2010-04-01,GE0106,Bajo,1
+SU0006,Mérida Plaza,PA01,México,Norteamérica,Mérida,MXN,Urbana,Hub,1986-02-01,GE0107,Bajo,1
+SU0007,Tijuana Centro,PA01,México,Norteamérica,Tijuana,MXN,Urbana,Tradicional,2016-04-01,GE0108,Medio,1
+SU0008,León Norte,PA01,México,Norteamérica,León,MXN,Regional,Tradicional,1992-10-01,GE0109,Medio,1
+SU0009,Toluca Plaza,PA01,México,Norteamérica,Toluca,MXN,Regional,Digital,1985-09-01,GE0110,Medio,1
+SU0010,Veracruz Centro,PA01,México,Norteamérica,Veracruz,MXN,Regional,Tradicional,1996-03-01,GE0111,Alto,1
+SU0011,Toronto Centro,PA02,Canadá,Norteamérica,Toronto,CAD,Metropolitana,Hub,2002-07-01,GE0112,Bajo,1
+SU0012,Vancouver Norte,PA02,Canadá,Norteamérica,Vancouver,CAD,Metropolitana,Tradicional,1986-07-01,GE0113,Bajo,1
+SU0013,Montreal Plaza,PA02,Canadá,Norteamérica,Montreal,CAD,Metropolitana,Tradicional,2009-06-01,GE0114,Bajo,1
+SU0014,Calgary Centro,PA02,Canadá,Norteamérica,Calgary,CAD,Urbana,Tradicional,2003-10-01,GE0115,Bajo,1
+SU0015,Ottawa Norte,PA02,Canadá,Norteamérica,Ottawa,CAD,Urbana,Digital,2007-07-01,GE0116,Bajo,1
+SU0016,Edmonton Plaza,PA02,Canadá,Norteamérica,Edmonton,CAD,Urbana,Hub,1996-10-01,GE0117,Bajo,1
+SU0017,Winnipeg Centro,PA02,Canadá,Norteamérica,Winnipeg,CAD,Urbana,Tradicional,2021-08-01,GE0118,Medio,1
+SU0018,Halifax Norte,PA02,Canadá,Norteamérica,Halifax,CAD,Regional,Tradicional,1991-09-01,GE0119,Medio,1
+SU0019,Québec Plaza,PA02,Canadá,Norteamérica,Québec,CAD,Regional,Digital,2011-10-01,GE0120,Medio,1
+SU0020,Mississauga Centro,PA02,Canadá,Norteamérica,Mississauga,CAD,Regional,Tradicional,2016-03-01,GE0121,Alto,1
+SU0021,Santiago Centro,PA03,Chile,Sudamérica,Santiago,CLP,Metropolitana,Hub,2006-04-01,GE0122,Bajo,1
+SU0022,Valparaíso Norte,PA03,Chile,Sudamérica,Valparaíso,CLP,Metropolitana,Tradicional,1997-09-01,GE0123,Bajo,1
+SU0023,Concepción Plaza,PA03,Chile,Sudamérica,Concepción,CLP,Metropolitana,Tradicional,1996-06-01,GE0124,Bajo,1
+SU0024,Antofagasta Centro,PA03,Chile,Sudamérica,Antofagasta,CLP,Urbana,Tradicional,2017-01-01,GE0125,Bajo,1
+SU0025,Temuco Norte,PA03,Chile,Sudamérica,Temuco,CLP,Urbana,Digital,1990-10-01,GE0126,Bajo,1
+SU0026,La Serena Plaza,PA03,Chile,Sudamérica,La Serena,CLP,Urbana,Hub,2008-02-01,GE0127,Bajo,1
+SU0027,Rancagua Centro,PA03,Chile,Sudamérica,Rancagua,CLP,Urbana,Tradicional,2007-04-01,GE0128,Medio,1
+SU0028,Talca Norte,PA03,Chile,Sudamérica,Talca,CLP,Regional,Tradicional,1997-08-01,GE0129,Medio,1
+SU0029,Puerto Montt Plaza,PA03,Chile,Sudamérica,Puerto Montt,CLP,Regional,Digital,1996-03-01,GE0130,Medio,1
+SU0030,Viña del Mar Centro,PA03,Chile,Sudamérica,Viña del Mar,CLP,Regional,Tradicional,1994-11-01,GE0131,Alto,1
+SU0031,Lima Centro,PA04,Perú,Sudamérica,Lima,PEN,Metropolitana,Hub,2016-08-01,GE0132,Bajo,1
+SU0032,Arequipa Norte,PA04,Perú,Sudamérica,Arequipa,PEN,Metropolitana,Tradicional,2003-05-01,GE0133,Bajo,1
+SU0033,Trujillo Plaza,PA04,Perú,Sudamérica,Trujillo,PEN,Metropolitana,Tradicional,1990-09-01,GE0134,Bajo,1
+SU0034,Cusco Centro,PA04,Perú,Sudamérica,Cusco,PEN,Urbana,Tradicional,1985-03-01,GE0135,Bajo,1
+SU0035,Piura Norte,PA04,Perú,Sudamérica,Piura,PEN,Urbana,Digital,2008-01-01,GE0136,Bajo,1
+SU0036,Chiclayo Plaza,PA04,Perú,Sudamérica,Chiclayo,PEN,Urbana,Hub,1987-10-01,GE0137,Bajo,1
+SU0037,Iquitos Centro,PA04,Perú,Sudamérica,Iquitos,PEN,Urbana,Tradicional,2005-04-01,GE0138,Medio,1
+SU0038,Huancayo Norte,PA04,Perú,Sudamérica,Huancayo,PEN,Regional,Tradicional,2005-11-01,GE0139,Medio,1
+SU0039,Tacna Plaza,PA04,Perú,Sudamérica,Tacna,PEN,Regional,Digital,2014-12-01,GE0140,Medio,1
+SU0040,Cajamarca Centro,PA04,Perú,Sudamérica,Cajamarca,PEN,Regional,Tradicional,1996-05-01,GE0141,Alto,1
+SU0041,Bogotá Centro,PA05,Colombia,Sudamérica,Bogotá,COP,Metropolitana,Hub,1999-02-01,GE0142,Bajo,1
+SU0042,Medellín Norte,PA05,Colombia,Sudamérica,Medellín,COP,Metropolitana,Tradicional,1995-02-01,GE0143,Bajo,1
+SU0043,Cali Plaza,PA05,Colombia,Sudamérica,Cali,COP,Metropolitana,Tradicional,1998-05-01,GE0144,Bajo,1
+SU0044,Barranquilla Centro,PA05,Colombia,Sudamérica,Barranquilla,COP,Urbana,Tradicional,2014-03-01,GE0145,Bajo,1
+SU0045,Cartagena Norte,PA05,Colombia,Sudamérica,Cartagena,COP,Urbana,Digital,2005-07-01,GE0146,Bajo,1
+SU0046,Bucaramanga Plaza,PA05,Colombia,Sudamérica,Bucaramanga,COP,Urbana,Hub,1994-10-01,GE0147,Bajo,1
+SU0047,Pereira Centro,PA05,Colombia,Sudamérica,Pereira,COP,Urbana,Tradicional,1988-05-01,GE0148,Medio,1
+SU0048,Manizales Norte,PA05,Colombia,Sudamérica,Manizales,COP,Regional,Tradicional,1993-11-01,GE0149,Medio,1
+SU0049,Santa Marta Plaza,PA05,Colombia,Sudamérica,Santa Marta,COP,Regional,Digital,2012-09-01,GE0150,Medio,1
+SU0050,Cúcuta Centro,PA05,Colombia,Sudamérica,Cúcuta,COP,Regional,Tradicional,2003-07-01,GE0151,Alto,1
