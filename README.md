@@ -1,5 +1,7 @@
 # Curso de Power BI: Storytelling / DAX para Scotiabank
 
+Alan Badillo Salas
+
 Septiembre / Octubre 2026
 
 ## Temario
