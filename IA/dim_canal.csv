@@ -1,0 +1,7 @@
+﻿canal_id,canal,grupo_canal,digital,costo_unitario_usd
+CA01,Sucursal,Presencial,0,2.8
+CA02,App móvil,Digital,1,0.08
+CA03,Banca web,Digital,1,0.12
+CA04,Cajero automático,Autoservicio,1,0.45
+CA05,Centro de contacto,Remoto,0,1.65
+CA06,API / Open banking,Digital,1,0.04

@@ -222,3 +222,6 @@ __marimo__/
 
 # Libros
 Libros/
+
+# Node
+node_modules
